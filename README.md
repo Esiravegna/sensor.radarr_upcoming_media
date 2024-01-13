@@ -1,24 +1,14 @@
 # Radarr Upcoming Media Component
 
+This has been forked from the original [sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) by [maykar](https://github.com/maykar).
+
 Home Assistant component to feed [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) with
 Radarr's upcoming added media.</br>
-This component does not require, nor conflict with, the default Radarr component.</br></br>
-### Issues
-Read through these two resources before posting issues to GitHub or the forums.
-* [troubleshooting guide](https://github.com/custom-cards/upcoming-media-card/blob/master/troubleshooting.md)
-* [@thomasloven's lovelace guide](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins).
+This component does not require, nor conflict with, the default Radarr component.</br>
 
-
-## Supporting Development
-- :coffee:&nbsp;&nbsp;[Buy me a coffee](https://www.buymeacoffee.com/FgwNR2l)
-- :1st_place_medal:&nbsp;&nbsp;[Tip some Crypto](https://github.com/sponsors/maykar)
-- :heart:&nbsp;&nbsp;[Sponsor me on GitHub](https://github.com/sponsors/maykar)
-  <br><br>
-</br>
-<a href="https://www.themoviedb.org/"><img width="200" src="https://www.themoviedb.org/assets/1/v4/logos/408x161-powered-by-rectangle-green-bb4301c10ddc749b4e79463811a68afebeae66ef43d17bcfd8ff0e60ded7ce99.png">
-</br>This product uses the TMDb API but is not endorsed or certified by TMDb.</a>
-
-### If you're having issues, check out the [troubleshooting guide](https://github.com/custom-cards/upcoming-media-card/blob/master/troubleshooting.md) before posting an issue or asking for help on the forums.
+### With Thanks to:
+[maykar](https://github.com/maykar)
+</br></br>
 
 ## Installation:
 

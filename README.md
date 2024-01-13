@@ -1,6 +1,6 @@
 # Radarr Upcoming Media Component
 
-This has been forked from the original [sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) by [maykar](https://github.com/maykar).
+This has been forked from the original [sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.radarr_upcoming_media) by [maykar](https://github.com/maykar).
 
 Home Assistant component to feed [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) with
 Radarr's upcoming added media.</br>

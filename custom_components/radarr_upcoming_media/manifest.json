@@ -1,5 +1,5 @@
 {
-    "domain": "raarr_upcoming_media",
+    "domain": "radarr_upcoming_media",
     "name": "Radarr Upcoming Media",
     "version": "0.3.6",
     "documentation": "https://github.com/ndwalters/sensor.radarr_upcoming_media",
